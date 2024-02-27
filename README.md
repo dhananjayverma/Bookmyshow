@@ -14,10 +14,6 @@ Front-End Technologies:
 - React Hooks: Leveraging React Hooks allowed us to manage state and perform side effects, such as API calls, within functional components.
 - Axios: To fetch data from the server, we integrated Axios, a popular JavaScript library that simplifies the process of making HTTP requests.
 
-Back-End Technologies:
-- MongoDB: We selected MongoDB as our database to store movie details, slot information, seat availability, and user bookings. Its flexibility and scalability made it an ideal choice for our application.
-- Express.js: As the back-end framework, Express.js facilitated the creation of a robust API for handling user requests, managing data, and communicating with the database.
-
 User Flow:
 1. Movie Selection: Users can select their preferred movie title.
 2. Slot and Seat Selection: Once a movie is chosen, users can view available time slots and select one. They can then choose their desired seat numbers from a visual representation of the theater layout.
